@@ -1,0 +1,9 @@
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\bin\Debug\TRY2.dacpac
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\bin\Debug\TRY2.dll
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\bin\Debug\TRY2.pdb
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\obj\Debug\Model.xml
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\obj\Debug\refactor.xml
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\obj\Debug\postdeploy.sql
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\obj\Debug\predeploy.sql
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\obj\Debug\TRY2.dll
+C:\Users\Intern-11\Desktop\JS\TRY2\TRY2\obj\Debug\TRY2.pdb
